@@ -1,0 +1,26 @@
+{
+  "date": "2026-02-16",
+  "day": "Monday",
+  "total_targets": 75,
+  "vendor_mix": "70% Private, 30% Financial Services",
+  "focus_sectors": [
+    "private_consulting_primes",
+    "financial_services_primes"
+  ],
+  "priority_technologies": [
+    "Java",
+    "Python",
+    "Salesforce",
+    "Cloud",
+    "React"
+  ],
+  "private_vendors": 30,
+  "government_vendors": 0,
+  "technology_vendors": 30,
+  "financial_vendors": 30,
+  "healthcare_vendors": 0,
+  "retail_vendors": 0,
+  "balanced_mix": true,
+  "email_addresses_included": true,
+  "contract_only_focus": true
+}

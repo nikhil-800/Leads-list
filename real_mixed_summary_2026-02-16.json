@@ -1,0 +1,30 @@
+{
+  "date": "2026-02-16",
+  "day": "Monday",
+  "total_targets": 180,
+  "real_contacts": true,
+  "all_sectors_daily": true,
+  "sector_breakdown": {
+    "private_consulting": 30,
+    "financial_services": 35,
+    "cloud_technology": 45,
+    "federal_government": 30,
+    "healthcare_technology": 20,
+    "ecommerce_technology": 20
+  },
+  "technology_focus": [
+    "Java",
+    "Python",
+    "React",
+    "Cloud",
+    "Salesforce"
+  ],
+  "rate_ranges": {
+    "private_consulting": "$70-160/hour",
+    "financial_services": "$85-200/hour",
+    "cloud_technology": "$80-180/hour",
+    "government_it": "$85-200/hour",
+    "healthcare_it": "$80-160/hour",
+    "ecommerce": "$75-170/hour"
+  }
+}
