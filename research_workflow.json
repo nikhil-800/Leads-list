@@ -1,0 +1,68 @@
+{
+  "phase_1_company_research": {
+    "duration": "30 minutes per company",
+    "steps": [
+      "1. Visit company website careers page",
+      "2. Check recent job postings for target technologies",
+      "3. Identify hiring patterns and preferences",
+      "4. Note company size and growth stage",
+      "5. Check if they mention C2C/contract work",
+      "6. Research company culture and values"
+    ],
+    "tools": [
+      "Company website",
+      "Glassdoor",
+      "Crunchbase",
+      "LinkedIn Company page"
+    ]
+  },
+  "phase_2_contact_identification": {
+    "duration": "20 minutes per company",
+    "steps": [
+      "1. LinkedIn: Search '[Company] hiring manager [Technology]'",
+      "2. LinkedIn: Search '[Company] technical recruiter'",
+      "3. LinkedIn: Search '[Company] talent acquisition'",
+      "4. LinkedIn: Search '[Company] engineering manager'",
+      "5. Check recent job postings for recruiter names",
+      "6. Look for 'We are hiring' posts to find hiring managers"
+    ],
+    "tools": [
+      "LinkedIn Sales Navigator",
+      "LinkedIn regular search",
+      "Boolean search operators"
+    ]
+  },
+  "phase_3_contact_verification": {
+    "duration": "10 minutes per contact",
+    "steps": [
+      "1. Verify contact is still at the company",
+      "2. Check recent activity and posts",
+      "3. Find email format using Hunter.io or similar",
+      "4. Cross-reference with company directory if available",
+      "5. Note preferred contact method from profile",
+      "6. Check for mutual connections"
+    ],
+    "tools": [
+      "Hunter.io",
+      "Apollo.io",
+      "ZoomInfo",
+      "Company website team pages"
+    ]
+  },
+  "phase_4_personalized_outreach": {
+    "duration": "15 minutes per email",
+    "steps": [
+      "1. Reference specific technology needs from job postings",
+      "2. Mention recent company news or achievements",
+      "3. Highlight relevant candidate experience",
+      "4. Include specific engagement model (C2C/C2H/1099)",
+      "5. Provide concrete timeline and next steps",
+      "6. Add professional signature with credentials"
+    ],
+    "tools": [
+      "Email templates",
+      "Company research notes",
+      "LinkedIn insights"
+    ]
+  }
+}

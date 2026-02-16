@@ -1,0 +1,62 @@
+{
+  "openai_ml_engineer": {
+    "company": "OpenAI",
+    "position": "Machine Learning Engineer",
+    "research_points": [
+      "Recently posted 15+ ML engineer roles",
+      "Focus on GPT model optimization and training",
+      "Hiring for both research and production ML teams",
+      "Compensation range: $200k-$350k+ for senior roles"
+    ],
+    "subject": "ML Engineers for GPT Model Development - PyTorch/CUDA Specialists Available",
+    "body": "Hi {recruiter_name},\n\nI noticed OpenAI has been actively expanding the ML engineering team, particularly for GPT model development and optimization work.\n\nTeam-Soft LLC specializes in senior ML engineers with direct experience in large-scale language model development. I have two immediate candidates who match your current requirements:\n\n\ud83c\udfaf **Senior ML Engineer** - 7 years experience\n   \u2022 PyTorch/CUDA optimization for transformer models at scale\n   \u2022 Previously at Anthropic - worked on Constitutional AI training \n   \u2022 Published research in NeurIPS on efficient attention mechanisms\n   \u2022 Available for C2C contract, $180/hour, immediate start\n\n\ud83c\udfaf **Research Engineer** - 5 years experience  \n   \u2022 PhD in ML from Stanford, focus on large language models\n   \u2022 Built training infrastructure for 175B+ parameter models\n   \u2022 Experience with distributed training across 1000+ GPUs\n   \u2022 Open to C2H arrangement, targeting $280k+ full-time equivalent\n\nBoth candidates are excited about OpenAI's approach to AI safety and alignment, particularly the recent work on Constitutional AI that you've published.\n\nGiven the competitive market for this level of ML expertise, these candidates are evaluating opportunities this week. \n\nWould you have 15 minutes Thursday or Friday to discuss how they might contribute to OpenAI's current model development initiatives?\n\nBest regards,\n{your_name}\nTeam-Soft LLC\nPhone: {phone}\nEmail: {email}\n\nP.S. - Both candidates have been following OpenAI's recent technical blog posts on RLHF improvements and are particularly interested in contributing to that research direction."
+  },
+  "netflix_devops_sre": {
+    "company": "Netflix",
+    "position": "DevOps/SRE Engineer",
+    "research_points": [
+      "Building cloud infrastructure for global streaming",
+      "AWS-heavy with microservices architecture",
+      "Posted 12 infrastructure roles in last 30 days",
+      "Focus on chaos engineering and reliability"
+    ],
+    "subject": "AWS/Kubernetes Engineers - Netflix-Scale Infrastructure Experience",
+    "body": "Hello {hiring_manager_name},\n\nI saw your recent LinkedIn post about scaling Netflix's global infrastructure and the challenges of maintaining 99.99% uptime across 200+ countries.\n\nTeam-Soft LLC represents senior DevOps engineers with direct experience managing streaming infrastructure at Netflix's scale. Current availability:\n\n\u26a1 **Senior SRE** - Ex-Spotify Infrastructure Lead\n   \u2022 Built auto-scaling systems handling 100M+ daily active users\n   \u2022 Expert in AWS EKS, Istio service mesh, Prometheus/Grafana\n   \u2022 Implemented chaos engineering practices (similar to Chaos Monkey)\n   \u2022 Available for 6-month C2C contract, $160/hour\n\n\u26a1 **DevOps Architect** - Previously at Hulu  \n   \u2022 Designed CDN infrastructure for video streaming optimization\n   \u2022 AWS Solutions Architect Professional certified\n   \u2022 Built CI/CD pipelines supporting 500+ microservices\n   \u2022 Open to C2H, targeting $190k+ base\n\nBoth engineers understand the unique challenges of streaming infrastructure - managing traffic spikes during content releases, optimizing CDN performance globally, and maintaining zero-downtime deployments.\n\nThey've been following Netflix's engineering blog, particularly the recent posts on predictive auto-scaling and the evolution of your microservices architecture.\n\nGiven Netflix's Q4 content release schedule and infrastructure scaling needs, timing is critical for these roles.\n\nCould we schedule a brief technical discussion this week? Both candidates can start within 2 weeks and have experience onboarding into large-scale streaming environments.\n\nBest,\n{your_name}\nTeam-Soft LLC  \n{contact_info}\n\nP.S. - The ex-Spotify engineer specifically mentioned your recent work on global traffic routing optimization and has ideas for improvement based on their experience with similar challenges."
+  },
+  "stripe_backend_engineer": {
+    "company": "Stripe",
+    "position": "Backend Engineer",
+    "research_points": [
+      "Expanding payments infrastructure globally",
+      "Ruby, Go, JavaScript tech stack",
+      "Posted 25+ backend roles recently",
+      "Focus on financial data processing and compliance"
+    ],
+    "subject": "Backend Engineers - Fintech/Payments Infrastructure Specialists",
+    "body": "Hi {technical_recruiter_name},\n\nFollowing Stripe's recent expansion into new markets and the 40% YoY payment volume growth, I imagine the backend engineering team is scaling rapidly.\n\nTeam-Soft LLC has deep relationships in the fintech engineering community. I have two senior backend engineers with direct payments infrastructure experience:\n\n\ud83d\udcb3 **Senior Backend Engineer** - Ex-Square\n   \u2022 6 years building payment processing systems at scale\n   \u2022 Ruby on Rails expert, Go microservices architecture\n   \u2022 Built fraud detection systems processing $2B+ annually\n   \u2022 Experience with PCI compliance and financial data security\n   \u2022 Available for C2C contract, $150/hour, 2-week notice\n\n\ud83d\udcb3 **Principal Engineer** - Previously at Coinbase\n   \u2022 Led backend team through Series C scaling (10x transaction volume)\n   \u2022 Expert in distributed systems design for financial applications  \n   \u2022 Built real-time payment reconciliation systems\n   \u2022 Deep experience with regulatory compliance (SOX, PCI DSS)\n   \u2022 Interested in C2H opportunity, $200k+ target\n\nBoth engineers have experience with the unique challenges of payments infrastructure:\n- Real-time transaction processing with sub-second latency\n- Building idempotent APIs for financial operations  \n- Handling complex international payment regulations\n- Designing systems for 99.99%+ uptime requirements\n\nThey've been impressed by Stripe's approach to developer experience and API design, particularly the recent improvements to the Connect platform for marketplace payments.\n\nThese engineers typically have multiple opportunities and make decisions quickly. Both are available for technical interviews this week.\n\nWhen would be a good time to discuss Stripe's current backend engineering priorities?\n\nBest regards,\n{your_name}\nTeam-Soft LLC\n{contact_info}\n\nP.S. - The ex-Coinbase engineer mentioned following Stripe's recent blog post on distributed systems resilience and has experience implementing similar patterns for cryptocurrency exchange infrastructure."
+  },
+  "coinbase_blockchain_developer": {
+    "company": "Coinbase",
+    "position": "Blockchain/Protocol Engineer",
+    "research_points": [
+      "Expanding support for new blockchain protocols",
+      "Posted 20+ blockchain roles monthly",
+      "Focus on DeFi integration and institutional tools",
+      "Recent emphasis on Layer 2 scaling solutions"
+    ],
+    "subject": "Solidity/Protocol Engineers - DeFi & Layer 2 Scaling Experience",
+    "body": "Hello {blockchain_hiring_manager},\n\nNoticed Coinbase has been rapidly expanding protocol support, particularly with the recent Base Layer 2 launch and increased DeFi integrations.\n\nTeam-Soft LLC specializes in senior blockchain engineers with production DeFi experience. Current candidates available:\n\n\ud83d\ude80 **Senior Protocol Engineer** - Ex-Uniswap Labs\n   \u2022 Built automated market maker protocols handling $50M+ daily volume\n   \u2022 Solidity expert with gas optimization experience (reduced costs 40%+)\n   \u2022 Led smart contract audits with Trail of Bits and Consensys Diligence  \n   \u2022 Experience integrating with institutional custody solutions\n   \u2022 Available for C2C contract, $180/hour, immediate start\n\n\ud83d\ude80 **Blockchain Architect** - Previously at Compound Finance\n   \u2022 Designed lending protocol smart contracts ($8B+ TVL at peak)\n   \u2022 Expert in Layer 2 scaling solutions (Optimism, Arbitrum, Polygon)\n   \u2022 Built cross-chain bridge architecture for asset transfers\n   \u2022 Deep knowledge of DeFi composability and yield farming mechanics\n   \u2022 Open to C2H arrangement, $250k+ target\n\nBoth engineers have direct experience with the challenges Coinbase faces:\n- Integrating new DeFi protocols safely and efficiently\n- Building institutional-grade smart contract infrastructure  \n- Optimizing gas costs for high-frequency trading operations\n- Ensuring security and compliance for regulated crypto products\n\nThey've been following Coinbase's technical blog, particularly excited about Base's approach to Ethereum Layer 2 scaling and the potential for DeFi innovation.\n\nThe blockchain talent market moves extremely fast - these engineers typically evaluate multiple opportunities simultaneously and decide within 48-72 hours.\n\nAvailable for technical interviews this week? Both candidates can start immediately and have experience onboarding into regulated crypto environments.\n\nBest,\n{your_name}\nTeam-Soft LLC\n{contact_info}\n\nP.S. - The ex-Uniswap engineer specifically mentioned interest in Coinbase's institutional DeFi products and has ideas for improving capital efficiency based on their AMM experience."
+  },
+  "shopify_fullstack_engineer": {
+    "company": "Shopify",
+    "position": "Full Stack Engineer",
+    "research_points": [
+      "Building next-gen e-commerce infrastructure",
+      "Ruby on Rails, React, GraphQL stack",
+      "Posted 30+ engineering roles recently",
+      "Focus on merchant tools and checkout optimization"
+    ],
+    "subject": "Full Stack Engineers - E-commerce Platform Scaling Experience",
+    "body": "Hi {engineering_recruiter},\n\nShopify's continued growth (2M+ merchants, $200B+ GMV) requires significant engineering talent, especially for platform scaling and merchant experience optimization.\n\nTeam-Soft LLC has strong relationships with senior full stack engineers specializing in e-commerce platforms:\n\n\ud83d\uded2 **Senior Full Stack Engineer** - Ex-Magento/Adobe Commerce\n   \u2022 5 years building e-commerce platforms serving 100K+ merchants\n   \u2022 Ruby on Rails backend, React/GraphQL frontend expertise\n   \u2022 Built real-time inventory management systems across multiple channels\n   \u2022 Experience with payment gateway integrations (Stripe, PayPal, etc.)\n   \u2022 Available for C2C contract, $140/hour, 3-week notice\n\n\ud83d\uded2 **Lead Engineer** - Previously at BigCommerce  \n   \u2022 Led checkout optimization that increased conversion rates 25%+\n   \u2022 Expert in Ruby performance optimization and database scaling\n   \u2022 Built merchant analytics dashboard processing 1TB+ daily data\n   \u2022 Experience with international e-commerce (multi-currency, tax handling)\n   \u2022 Interested in C2H opportunity, $170k+ base target\n\nBoth engineers understand the unique challenges of e-commerce platform development:\n- Handling traffic spikes during flash sales and peak shopping periods\n- Building flexible APIs that support diverse merchant needs\n- Optimizing checkout flows for maximum conversion\n- Scaling infrastructure to support millions of concurrent shoppers\n\nThey've been following Shopify's engineering blog, particularly impressed by the recent posts on Ruby performance improvements and the evolution of the checkout system architecture.\n\nE-commerce engineers with platform-level experience are extremely rare. These candidates are currently interviewing and will likely make decisions by Friday.\n\nWhen could we schedule technical conversations? Both engineers are excited about Shopify's mission to democratize commerce and can contribute immediately to your platform scaling initiatives.\n\nBest regards,\n{your_name}\nTeam-Soft LLC\n{contact_info}\n\nP.S. - The ex-BigCommerce engineer mentioned specific interest in Shopify Plus enterprise features and has experience building similar B2B commerce tools."
+  }
+}

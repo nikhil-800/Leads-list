@@ -1,0 +1,68 @@
+{
+  "step_1_linkedin_verification": {
+    "action": "Verify current employment and role",
+    "checks": [
+      "Profile shows current position at target company",
+      "Recent activity within last 30 days",
+      "Profile completeness (photo, summary, experience)",
+      "Connection count (indicates active LinkedIn user)",
+      "Recent posts about hiring or team growth"
+    ],
+    "red_flags": [
+      "Profile shows 'Open to Work' status",
+      "No activity in 90+ days",
+      "Generic or incomplete profile",
+      "Recent job change notification"
+    ]
+  },
+  "step_2_email_discovery": {
+    "tools": [
+      "Hunter.io",
+      "Apollo.io",
+      "Voila Norbert",
+      "FindThatLead"
+    ],
+    "methods": [
+      "Use Hunter.io to find company email format",
+      "Cross-reference with Apollo.io database",
+      "Check company website team/about pages",
+      "Look for email signatures in LinkedIn posts",
+      "Use company directory if publicly available"
+    ],
+    "verification": [
+      "Send test email with read receipt",
+      "Use email verification tools to check validity",
+      "Look for auto-responder messages",
+      "Check for bounced emails"
+    ]
+  },
+  "step_3_phone_discovery": {
+    "sources": [
+      "LinkedIn profile contact info section",
+      "Company website team pages",
+      "ZoomInfo or similar data services",
+      "Professional associations and directories",
+      "Conference speaker listings"
+    ],
+    "verification": [
+      "Cross-reference phone number with multiple sources",
+      "Check area code matches company location",
+      "Look for mobile vs. office number indicators"
+    ]
+  },
+  "step_4_contact_enrichment": {
+    "gather_intelligence": [
+      "Recent LinkedIn posts and articles",
+      "Company news and press releases",
+      "Team announcements and hiring updates",
+      "Professional interests and expertise areas",
+      "Mutual connections and warm introduction paths"
+    ],
+    "timing_optimization": [
+      "Check recent hiring posts for urgency indicators",
+      "Note any company growth announcements",
+      "Look for funding news that indicates hiring spikes",
+      "Monitor for job posting patterns and timing"
+    ]
+  }
+}

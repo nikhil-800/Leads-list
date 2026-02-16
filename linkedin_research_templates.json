@@ -1,0 +1,35 @@
+{
+  "find_hiring_managers": [
+    "\"{company_name}\" AND \"hiring manager\" AND \"{technology}\"",
+    "\"{company_name}\" AND \"engineering manager\" AND \"{technology}\"",
+    "\"{company_name}\" AND \"director of engineering\" AND \"{technology}\"",
+    "\"{company_name}\" AND \"VP engineering\" AND \"{technology}\"",
+    "\"{company_name}\" AND \"head of engineering\" AND \"{technology}\""
+  ],
+  "find_technical_recruiters": [
+    "\"{company_name}\" AND \"technical recruiter\" AND \"{technology}\"",
+    "\"{company_name}\" AND \"talent acquisition\" AND \"{technology}\"",
+    "\"{company_name}\" AND \"recruiting\" AND \"{technology}\"",
+    "\"{company_name}\" AND \"senior recruiter\" AND \"{technology}\"",
+    "\"{company_name}\" AND \"talent partner\" AND \"{technology}\""
+  ],
+  "find_hr_contacts": [
+    "\"{company_name}\" AND \"people operations\" AND \"engineering\"",
+    "\"{company_name}\" AND \"HR business partner\" AND \"technology\"",
+    "\"{company_name}\" AND \"talent acquisition partner\"",
+    "\"{company_name}\" AND \"recruiting coordinator\" AND \"tech\"",
+    "\"{company_name}\" AND \"people team\" AND \"engineering\""
+  ],
+  "find_delivery_managers": [
+    "\"{company_name}\" AND \"delivery manager\" AND \"{technology}\"",
+    "\"{company_name}\" AND \"program manager\" AND \"{technology}\"",
+    "\"{company_name}\" AND \"project manager\" AND \"{technology}\"",
+    "\"{company_name}\" AND \"scrum master\" AND \"{technology}\"",
+    "\"{company_name}\" AND \"agile delivery\" AND \"{technology}\""
+  ],
+  "boolean_search_advanced": [
+    "site:linkedin.com/in \"{company_name}\" AND (\"hiring manager\" OR \"engineering manager\") AND \"{technology}\"",
+    "site:linkedin.com/in \"{company_name}\" AND (\"recruiter\" OR \"talent acquisition\") AND \"{technology}\"",
+    "site:linkedin.com/in \"{company_name}\" AND (\"we are hiring\" OR \"we're hiring\") AND \"{technology}\""
+  ]
+}

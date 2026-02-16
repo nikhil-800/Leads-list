@@ -1,0 +1,20 @@
+{
+  "pre_send_checklist": [
+    "\u2705 Researched company recent news/achievements",
+    "\u2705 Found specific job postings or hiring signals",
+    "\u2705 Verified contact is correct person and current role",
+    "\u2705 Personalized opening hook with specific reference",
+    "\u2705 Included relevant candidate experience/metrics",
+    "\u2705 Added clear call-to-action with specific next steps",
+    "\u2705 Proofread for company name, contact name, technical terms",
+    "\u2705 Set up follow-up reminder in CRM/calendar"
+  ],
+  "response_tracking": [
+    "\ud83d\udce7 Email sent date and time",
+    "\ud83d\udc40 Email opened (if tracking enabled)",
+    "\ud83d\udd17 Links clicked (if tracking enabled)",
+    "\ud83d\udcde Response received date and type",
+    "\ud83d\udcc5 Follow-up scheduled date",
+    "\ud83d\udcca Outcome (interested/not interested/wrong person/etc.)"
+  ]
+}

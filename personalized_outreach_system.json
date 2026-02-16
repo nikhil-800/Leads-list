@@ -1,0 +1,41 @@
+{
+  "research_requirements": {
+    "company_intelligence": [
+      "Recent company news (funding, partnerships, product launches)",
+      "Technology stack mentioned in job postings",
+      "Growth metrics and hiring velocity",
+      "Specific technical challenges mentioned publicly",
+      "Company culture and values from website/social media"
+    ],
+    "contact_intelligence": [
+      "Recent LinkedIn posts or articles by the contact",
+      "Professional background and career progression",
+      "Technical expertise areas and interests",
+      "Hiring patterns and team growth updates",
+      "Communication style from public posts"
+    ]
+  },
+  "personalization_framework": {
+    "opening_hook": [
+      "Reference specific recent company achievement",
+      "Mention mutual connection if available",
+      "Reference their recent LinkedIn post or article",
+      "Connect to industry news relevant to their role",
+      "Acknowledge specific technical challenge they face"
+    ],
+    "value_proposition": [
+      "Highlight exact technology match from job postings",
+      "Mention specific candidate experience relevant to their needs",
+      "Reference similar successful placements in their industry",
+      "Address unique hiring challenges they face",
+      "Offer specific timeline that matches their urgency"
+    ],
+    "credibility_builders": [
+      "Mention specific successful placements with metrics",
+      "Reference industry certifications or expertise",
+      "Include testimonials from similar companies",
+      "Highlight specialization in their technology stack",
+      "Show understanding of their industry challenges"
+    ]
+  }
+}

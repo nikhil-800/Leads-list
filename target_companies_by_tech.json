@@ -1,0 +1,190 @@
+{
+  "ai_ml_engineering": [
+    {
+      "company": "OpenAI",
+      "website": "openai.com/careers",
+      "recent_hirings": "Hiring 50+ ML engineers per quarter",
+      "linkedin_search": "OpenAI technical recruiter machine learning",
+      "email_format": "firstname.lastname@openai.com",
+      "hiring_manager_titles": [
+        "VP Engineering",
+        "Director of AI",
+        "ML Engineering Manager"
+      ],
+      "hr_contact_titles": [
+        "Technical Recruiter",
+        "Senior Recruiter - AI/ML",
+        "Talent Acquisition Partner"
+      ],
+      "job_board_activity": "Posts 10-15 ML roles weekly on LinkedIn",
+      "contractor_friendly": "Yes - uses contractors for specialized projects",
+      "notes": "Fast-growing, high compensation, cutting-edge projects"
+    },
+    {
+      "company": "Anthropic",
+      "website": "anthropic.com/careers",
+      "recent_hirings": "Building core AI safety team",
+      "linkedin_search": "Anthropic hiring manager AI safety",
+      "email_format": "firstname@anthropic.com",
+      "hiring_manager_titles": [
+        "Head of Engineering",
+        "AI Safety Lead",
+        "Research Director"
+      ],
+      "hr_contact_titles": [
+        "People Operations",
+        "Talent Partner",
+        "Technical Recruiter"
+      ],
+      "job_board_activity": "Selective hiring, posts 3-5 roles monthly",
+      "contractor_friendly": "Limited - prefers full-time but open to specialized consultants",
+      "notes": "AI safety focus, research-oriented, competitive compensation"
+    },
+    {
+      "company": "Scale AI",
+      "website": "scale.com/careers",
+      "recent_hirings": "Expanding ML infrastructure team",
+      "linkedin_search": "Scale AI machine learning engineer recruiter",
+      "email_format": "firstname@scale.com",
+      "hiring_manager_titles": [
+        "VP of Engineering",
+        "ML Platform Lead",
+        "Engineering Manager"
+      ],
+      "hr_contact_titles": [
+        "Technical Recruiter",
+        "Talent Acquisition",
+        "People Team"
+      ],
+      "job_board_activity": "Posts 5-8 ML roles weekly",
+      "contractor_friendly": "Yes - actively uses C2C for specialized skills",
+      "notes": "Data labeling platform, rapid growth, ML infrastructure focus"
+    }
+  ],
+  "devops_cloud": [
+    {
+      "company": "Netflix",
+      "website": "jobs.netflix.com",
+      "recent_hirings": "Building cloud infrastructure team",
+      "linkedin_search": "Netflix DevOps engineer recruiter cloud",
+      "email_format": "firstname.lastname@netflix.com",
+      "hiring_manager_titles": [
+        "Director of Platform Engineering",
+        "Cloud Infrastructure Manager",
+        "Site Reliability Manager"
+      ],
+      "hr_contact_titles": [
+        "Senior Technical Recruiter",
+        "Infrastructure Talent Partner",
+        "Engineering Recruiter"
+      ],
+      "job_board_activity": "Posts 15-20 infrastructure roles monthly",
+      "contractor_friendly": "Yes - uses contractors for specific migrations",
+      "notes": "AWS-heavy, microservices, high-scale streaming infrastructure"
+    },
+    {
+      "company": "Airbnb",
+      "website": "careers.airbnb.com",
+      "recent_hirings": "Scaling global infrastructure",
+      "linkedin_search": "Airbnb platform engineering recruiter",
+      "email_format": "firstname.lastname@airbnb.com",
+      "hiring_manager_titles": [
+        "VP Infrastructure",
+        "Platform Engineering Manager",
+        "DevOps Lead"
+      ],
+      "hr_contact_titles": [
+        "Technical Recruiter - Infrastructure",
+        "Senior Talent Partner",
+        "Engineering Recruiter"
+      ],
+      "job_board_activity": "Posts 8-12 platform roles monthly",
+      "contractor_friendly": "Yes - particularly for AWS migrations and K8s expertise",
+      "notes": "Multi-cloud strategy, Kubernetes-heavy, travel industry insights"
+    }
+  ],
+  "blockchain_web3": [
+    {
+      "company": "Coinbase",
+      "website": "coinbase.com/careers",
+      "recent_hirings": "Expanding protocol engineering team",
+      "linkedin_search": "Coinbase blockchain developer recruiter",
+      "email_format": "firstname.lastname@coinbase.com",
+      "hiring_manager_titles": [
+        "VP of Engineering",
+        "Protocol Engineering Manager",
+        "Blockchain Lead"
+      ],
+      "hr_contact_titles": [
+        "Technical Recruiter - Blockchain",
+        "Crypto Talent Partner",
+        "Senior Recruiter"
+      ],
+      "job_board_activity": "Posts 20+ blockchain roles monthly",
+      "contractor_friendly": "Yes - actively hires contractors for protocol work",
+      "notes": "Publicly traded, regulatory compliance focus, diverse blockchain protocols"
+    },
+    {
+      "company": "Chainlink Labs",
+      "website": "chainlinklabs.com/careers",
+      "recent_hirings": "Building oracle network infrastructure",
+      "linkedin_search": "Chainlink protocol engineer recruiter",
+      "email_format": "firstname@chainlinklabs.com",
+      "hiring_manager_titles": [
+        "Head of Engineering",
+        "Protocol Development Lead",
+        "Smart Contracts Manager"
+      ],
+      "hr_contact_titles": [
+        "Technical Recruiter",
+        "People Operations",
+        "Talent Acquisition"
+      ],
+      "job_board_activity": "Posts 5-8 protocol roles monthly",
+      "contractor_friendly": "Yes - especially for Solidity and Go developers",
+      "notes": "Decentralized oracle network, strong developer community, remote-first"
+    }
+  ],
+  "software_engineering": [
+    {
+      "company": "Stripe",
+      "website": "stripe.com/jobs",
+      "recent_hirings": "Expanding payments infrastructure globally",
+      "linkedin_search": "Stripe backend engineer recruiter",
+      "email_format": "firstname@stripe.com",
+      "hiring_manager_titles": [
+        "VP of Engineering",
+        "Backend Engineering Manager",
+        "Platform Lead"
+      ],
+      "hr_contact_titles": [
+        "Technical Recruiter",
+        "Engineering Talent Partner",
+        "Senior Recruiter"
+      ],
+      "job_board_activity": "Posts 25+ engineering roles monthly",
+      "contractor_friendly": "Limited full-time preference, but hires specialized contractors",
+      "notes": "Ruby, Go, JavaScript stack, fintech, global payments platform"
+    },
+    {
+      "company": "Shopify",
+      "website": "shopify.com/careers",
+      "recent_hirings": "Building commerce infrastructure platform",
+      "linkedin_search": "Shopify software engineer recruiter Ruby",
+      "email_format": "firstname.lastname@shopify.com",
+      "hiring_manager_titles": [
+        "Director of Engineering",
+        "Full Stack Engineering Manager",
+        "Backend Lead"
+      ],
+      "hr_contact_titles": [
+        "Technical Recruiter - Engineering",
+        "Talent Acquisition Partner",
+        "Senior Recruiter"
+      ],
+      "job_board_activity": "Posts 30+ engineering roles monthly",
+      "contractor_friendly": "Yes - hires contractors for e-commerce platform development",
+      "notes": "Ruby on Rails, React, GraphQL, e-commerce focus, merchant tools"
+    }
+  ]
+}

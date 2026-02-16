@@ -1,0 +1,18 @@
+{
+  "interested_response": {
+    "scenario": "They express interest and want to learn more",
+    "template": "Thanks for the quick response, {contact_name}!\n\nGreat to hear {company_name} is actively looking for {technology} talent. \n\nTo make sure I present the most relevant candidates, could you share:\n\n1. **Specific technical requirements** - Which frameworks/tools are must-haves vs. nice-to-haves?\n2. **Experience level** - Junior, mid-level, or senior focus?\n3. **Timeline** - When would you ideally want someone to start?\n4. **Engagement preference** - Contract-to-hire, straight contract, or flexible?\n5. **Interview process** - Technical screens, coding challenges, etc.?\n\nI can have detailed profiles and portfolios to you within 24 hours once I understand your priorities.\n\nAlso happy to schedule a 15-minute call if that's easier - I'm available {availability}.\n\nLooking forward to partnering with you on this!\n\n{your_name}"
+  },
+  "not_hiring_response": {
+    "scenario": "They say they're not currently hiring",
+    "template": "Thanks for letting me know, {contact_name}.\n\nAppreciate the transparency - I know how priorities can shift.\n\nWould you mind if I circle back in {timeframe} to check on hiring needs? I'll make a note in my calendar.\n\nAlso, if you hear of other teams at {company_name} or partner companies looking for {technology} talent, I'd appreciate the introduction.\n\nIn the meantime, feel free to reach out if anything changes or you need market intelligence on {technology} hiring trends.\n\nBest,\n{your_name}\n\nP.S. - I'll keep your contact info for future opportunities that might be a good fit."
+  },
+  "wrong_person_response": {
+    "scenario": "They direct you to someone else",
+    "template": "Perfect, thanks for pointing me in the right direction!\n\nI'll reach out to {correct_contact} and mention you suggested I contact them about {company_name}'s {technology} hiring needs.\n\nReally appreciate you taking the time to respond - makes a big difference for someone in my role.\n\nIf you ever need {your_specialty} talent in your network, feel free to reach out.\n\nBest,\n{your_name}\n\nP.S. - I'll make sure to mention your name when I contact {correct_contact} so they know this isn't cold outreach."
+  },
+  "budget_concerns_response": {
+    "scenario": "They're interested but concerned about rates/budget",
+    "template": "I completely understand the budget considerations, {contact_name}.\n\nA few options that might work:\n\n\ud83d\udca1 **Contract-to-Hire** - Start as contractor to prove value, then convert to full-time (often results in 20-30% budget savings initially)\n\n\ud83d\udca1 **Part-time/Fractional** - Senior expertise for 20-30 hours/week at reduced overall cost\n\n\ud83d\udca1 **Project-based** - Hire for specific initiatives with defined deliverables and timeline\n\n\ud83d\udca1 **Rate flexibility** - Our candidates often adjust rates for interesting projects, growth companies, or longer-term commitments\n\nThe {technology} market is expensive, but the right person can often deliver 2-3x the output of a junior hire, making the economics work.\n\nWould any of these models fit {company_name}'s current situation?\n\nHappy to discuss creative arrangements that work for your budget.\n\n{your_name}"
+  }
+}

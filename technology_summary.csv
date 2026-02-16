@@ -1,0 +1,10 @@
+category,priority,difficulty,salary_range,key_technologies,top_companies
+Software Engineering,High,High,$120k-$200k+,"Java, Python, C#, .NET, JavaScript","Goldman Sachs, JPMorgan Chase, Bank of America, Wells Fargo, American Express"
+AI/ML Engineering,Critical,Extremely High,$150k-$300k+,"Python, TensorFlow, PyTorch, Scikit-learn, Pandas","OpenAI, Anthropic, Google, Meta, Amazon"
+DevOps & Cloud Engineering,High,Very High,$130k-$220k+,"AWS, Azure, GCP, Docker, Kubernetes","Netflix, Airbnb, Uber, Spotify, Slack"
+Data Engineering,High,Very High,$140k-$240k+,"Python, SQL, Apache Spark, Apache Kafka, Apache Airflow","Snowflake, Databricks, Palantir, Confluent, Fivetran"
+QA & Test Engineering,Medium,Medium-High,$90k-$160k+,"Selenium, Cypress, TestNG, JUnit, Pytest","Apple, Google, Microsoft, Amazon, Meta"
+Network Engineering,Medium,Medium,$85k-$150k+,"Cisco, Juniper, F5, Palo Alto, Fortinet","Cisco, Juniper Networks, F5 Networks, Palo Alto Networks, Fortinet"
+Business Analysis & Product Management,Medium,Medium,$80k-$150k+,"SQL, Tableau, Power BI, Excel, Jira","McKinsey, BCG, Bain, Deloitte, Accenture"
+Cybersecurity,High,Very High,$100k-$200k+,"CISSP, CISM, CISA, CEH, Security+","CrowdStrike, Palo Alto Networks, Fortinet, Okta, Zscaler"
+Blockchain & Web3,Critical,Extremely High,$120k-$250k+,"Solidity, Rust, Go, JavaScript, Web3.js","Coinbase, Kraken, Binance, FTX, Gemini"

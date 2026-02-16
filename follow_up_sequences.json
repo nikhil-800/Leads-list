@@ -1,0 +1,17 @@
+{
+  "sequence_1_no_response": {
+    "timing": "5 days after initial email",
+    "subject": "Following up - {technology} Engineers Still Available",
+    "body": "Hi {contact_name},\n\nI wanted to follow up on my email from last week about {technology} engineers for {company_name}.\n\nI understand you're likely overwhelmed with recruiting priorities. Just wanted to let you know these candidates are still available:\n\n\u2022 {candidate_1_brief}\n\u2022 {candidate_2_brief}\n\nHowever, they're actively interviewing with other {industry} companies and will likely make decisions within the next week.\n\nIf {company_name} isn't currently hiring for these roles, I'd appreciate knowing so I can focus on companies with immediate needs.\n\nOtherwise, could we schedule a brief 10-minute call this week?\n\nThanks,\n{your_name}"
+  },
+  "sequence_2_value_add": {
+    "timing": "10 days after initial email",
+    "subject": "Market Intel: {technology} Hiring Trends + Available Talent",
+    "body": "Hi {contact_name},\n\nEven if timing isn't right for those {technology} engineers I mentioned, thought you might find this market intelligence valuable:\n\n\ud83d\udcca **{Technology} Market Trends:**\n\u2022 Average time-to-fill: {avg_time} (up 40% from last year)\n\u2022 Salary inflation: {salary_trend}\n\u2022 Top competing companies: {competitors}\n\u2022 Hardest skills to find: {rare_skills}\n\n\ud83d\udccb **Current Pipeline:**\n\u2022 {number} {technology} engineers actively interviewing\n\u2022 {number} considering new opportunities (not actively looking)\n\u2022 {percentage} interested in contract/C2C arrangements\n\nThis data comes from our conversations with 50+ {technology} engineers over the past month.\n\nHappy to share more detailed market insights when you're ready to discuss {company_name}'s {technology} hiring strategy.\n\nBest,\n{your_name}\n\nP.S. - If you know other hiring managers who need {technology} talent, I'd appreciate the introduction."
+  },
+  "sequence_3_final_touch": {
+    "timing": "21 days after initial email",
+    "subject": "Last note - Moving these candidates to other opportunities",
+    "body": "Hi {contact_name},\n\nThis is my final follow-up regarding {technology} engineers for {company_name}.\n\nSince I haven't heard back, I'm assuming this isn't a current priority and will be moving these candidates to other opportunities:\n\n\u2022 {candidate_1_brief} \u2192 Starting interviews with {competitor_1}\n\u2022 {candidate_2_brief} \u2192 In final rounds with {competitor_2}\n\nIf I've misunderstood the situation or timing has changed, please let me know by Wednesday and I can potentially keep them available for {company_name}.\n\nOtherwise, I'll reach back out in Q{next_quarter} when you might have different hiring needs.\n\nThanks for your time, and best of luck with your current initiatives.\n\n{your_name}\nTeam-Soft LLC\n\nP.S. - Always happy to discuss market trends or provide candidate insights even if we don't do business together."
+  }
+}
