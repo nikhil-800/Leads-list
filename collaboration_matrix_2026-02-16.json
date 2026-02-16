@@ -1,0 +1,52 @@
+{
+  "frequent_prime_to_sub_relationships": {
+    "Raytheon Technologies": [
+      "BAE Systems",
+      "L3Harris",
+      "Northrop Grumman subcontractors",
+      "Small defense contractors",
+      "Cybersecurity specialists",
+      "AI/ML boutiques"
+    ],
+    "Lockheed Martin": [
+      "Aerojet Rocketdyne",
+      "Collins Aerospace",
+      "Regional aerospace firms",
+      "Software development contractors",
+      "Systems integration specialists"
+    ],
+    "Accenture Federal": [
+      "Local IT consulting firms",
+      "Salesforce implementation partners",
+      "Cloud migration specialists",
+      "Data analytics boutiques",
+      "Regional system integrators"
+    ],
+    "IBM Government": [
+      "Mainframe specialists",
+      "Red Hat partners",
+      "Cloud consulting firms",
+      "AI/ML implementation partners",
+      "Legacy modernization experts"
+    ],
+    "CACI International": [
+      "Intelligence analysis contractors",
+      "Geospatial specialists",
+      "Cybersecurity boutiques",
+      "Data science contractors",
+      "Linguist service providers"
+    ]
+  },
+  "teaming_opportunities": {
+    "Large Federal RFPs": [
+      "Prime vendors team with 3-5 subcontractors per proposal",
+      "Small business set-aside requirements drive partnerships",
+      "Geographic diversity requirements create regional partnerships"
+    ],
+    "State Government Projects": [
+      "Local presence requirements favor in-state partnerships",
+      "Prime vendors partner with local firms for community knowledge",
+      "Minority/women-owned business requirements drive teaming"
+    ]
+  }
+}

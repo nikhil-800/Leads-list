@@ -1,0 +1,41 @@
+{
+  "date": "2026-02-16",
+  "day": "Monday",
+  "total_targets": 75,
+  "prime_vendors_covered": 5,
+  "vendor_types": [
+    "State & Federal Prime Vendor",
+    "Federal & State Prime Contractor",
+    "Federal Prime Contractor"
+  ],
+  "clearance_levels": [
+    "Secret/Top Secret for most roles",
+    "Public Trust to Top Secret depending on role",
+    "Usually not required for state projects",
+    "Varies by project - Public Trust to Secret",
+    "Secret minimum, TS/SCI preferred"
+  ],
+  "government_focus": true,
+  "prime_vendor_focus": true,
+  "federal_contractors": 75,
+  "state_contractors": 30,
+  "critical_priority": 60,
+  "collaboration_opportunities": true,
+  "email_addresses_included": true,
+  "focus_areas": [
+    "federal_prime_contractors",
+    "state_government_primes"
+  ],
+  "priority_techs": [
+    "Java",
+    "Python",
+    "Cybersecurity",
+    "Cloud",
+    "DevOps"
+  ],
+  "clearance_focus": [
+    "Public Trust",
+    "Secret",
+    "Top Secret"
+  ]
+}
