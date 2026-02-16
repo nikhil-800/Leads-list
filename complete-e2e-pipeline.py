@@ -11,8 +11,14 @@ import os
 from datetime import datetime, timedelta
 
 SENDER_EMAIL = "nikhil@teamsoftllc.com"
-SENDER_NAME = "Nikhil"
+SENDER_NAME = "Nikhil Sharma"
+SENDER_TITLE = "Marketing & Sales"
 COMPANY_NAME = "Team-Soft LLC"
+COMPANY_ADDRESS = "9951 Atlantic Blvd, Suite 209, Jacksonville, Fl 32225"
+COMPANY_PHONE = "+1 904-800-6540"
+COMPANY_MOBILE = "+1 (904) 374-0929"
+COMPANY_FAX = "(904) 862-2587"
+COMPANY_WEBSITE = "www.teamsoftllc.com"
 
 # ============================================================================
 # STAFFING COMPANY DATABASE
@@ -75,8 +81,13 @@ Do you have any current IT hiring needs? Happy to share candidate profiles.
 
 Best regards,
 {sender}
+{sender_title}
 {company_name}
-{sender_email}"""
+{company_address}
+Office: {company_phone}
+Mobile: {company_mobile}
+Email: {sender_email}
+Website: {company_website}"""
     },
     
     "followup_1": {
@@ -91,7 +102,9 @@ Let me know!
 
 Best,
 {sender}
-{company_name}"""
+{sender_title}
+{company_name}
+{company_phone}"""
     },
     
     "followup_2": {
@@ -104,6 +117,7 @@ But if you do have any IT needs, I can help quickly with pre-vetted candidates.
 
 Thanks!
 {sender}
+{sender_title}
 {company_name}"""
     },
     
@@ -120,7 +134,9 @@ In the meantime, here's what we offer:
 
 Best,
 {sender}
-{company_name}"""
+{sender_title}
+{company_name}
+{sender_email}"""
     },
     
     "interested": {
@@ -135,7 +151,9 @@ Let me know if you'd like to schedule interviews or need additional candidates.
 
 Best,
 {sender}
-{company_name}"""
+{sender_title}
+{company_name}
+{company_phone}"""
     }
 }
 
@@ -353,8 +371,13 @@ def run_complete_pipeline():
                 company=item["company"],
                 specialty=item["specialty"],
                 sender=SENDER_NAME,
+                sender_title=SENDER_TITLE,
                 company_name=COMPANY_NAME,
-                sender_email=SENDER_EMAIL
+                company_address=COMPANY_ADDRESS,
+                company_phone=COMPANY_PHONE,
+                company_mobile=COMPANY_MOBILE,
+                sender_email=SENDER_EMAIL,
+                company_website=COMPANY_WEBSITE
             )
             writer.writerow([item["email"], subject, body])
     
