@@ -1,0 +1,33 @@
+{
+  "daily_tasks": [
+    "\u25a1 Check Indeed for new AI/ML contract postings",
+    "\u25a1 Monitor LinkedIn for hiring manager posts",
+    "\u25a1 Search target company career pages",
+    "\u25a1 Update contact database with new finds",
+    "\u25a1 Send 5-10 outreach emails",
+    "\u25a1 Follow up on previous communications"
+  ],
+  "weekly_tasks": [
+    "\u25a1 Research 10 new target companies",
+    "\u25a1 Update email templates based on responses",
+    "\u25a1 Review and prioritize lead pipeline",
+    "\u25a1 Analyze response rates and optimize approach",
+    "\u25a1 Connect with new contacts on LinkedIn"
+  ],
+  "linkedin_research_process": [
+    "1. Search for company name + \"hiring manager\"",
+    "2. Look for recent AI/ML job postings from company",
+    "3. Find the hiring manager or recruiter who posted",
+    "4. Check their profile for contact preferences",
+    "5. Send connection request with personalized note",
+    "6. Follow up with email if contact info available"
+  ],
+  "contact_qualification_criteria": [
+    "\u2713 Company actively hiring AI/ML roles",
+    "\u2713 Open to contract/C2C arrangements",
+    "\u2713 Company size 100-5000 employees",
+    "\u2713 Recent job postings (last 30 days)",
+    "\u2713 Hard-to-fill or specialized requirements",
+    "\u2713 Remote-friendly positions"
+  ]
+}

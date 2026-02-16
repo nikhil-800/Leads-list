@@ -1,0 +1,82 @@
+[
+  {
+    "company": "Kelly Services",
+    "type": "Prime Vendor",
+    "focus": "AI/ML, Tech Staff Augmentation",
+    "contact_info": "TBD - LinkedIn research needed",
+    "website": "kellyservices.com",
+    "priority": "High"
+  },
+  {
+    "company": "Robert Half Technology",
+    "type": "Prime Vendor",
+    "focus": "IT Staffing, Data Science",
+    "contact_info": "TBD - LinkedIn research needed",
+    "website": "roberthalf.com",
+    "priority": "High"
+  },
+  {
+    "company": "TEKsystems",
+    "type": "Prime Vendor",
+    "focus": "Technology Consulting, AI Engineers",
+    "contact_info": "TBD - LinkedIn research needed",
+    "website": "teksystems.com",
+    "priority": "High"
+  },
+  {
+    "company": "Insight Global",
+    "type": "Prime Vendor",
+    "focus": "IT Staffing, Contract Placements",
+    "contact_info": "TBD - LinkedIn research needed",
+    "website": "insightglobal.net",
+    "priority": "High"
+  },
+  {
+    "company": "Apex Systems",
+    "type": "Prime Vendor",
+    "focus": "Technology Staffing, AI/ML",
+    "contact_info": "TBD - LinkedIn research needed",
+    "website": "apexsystems.com",
+    "priority": "Medium"
+  },
+  {
+    "company": "Randstad Technologies",
+    "type": "Prime Vendor",
+    "focus": "Digital & Technology",
+    "contact_info": "TBD - LinkedIn research needed",
+    "website": "randstadusa.com",
+    "priority": "Medium"
+  },
+  {
+    "company": "Netflix",
+    "type": "Direct Client",
+    "focus": "ML Engineers, Data Science",
+    "contact_info": "TBD - LinkedIn research needed",
+    "website": "netflix.com",
+    "priority": "High"
+  },
+  {
+    "company": "Spotify",
+    "type": "Direct Client",
+    "focus": "AI/ML, Recommendation Systems",
+    "contact_info": "TBD - LinkedIn research needed",
+    "website": "spotify.com",
+    "priority": "High"
+  },
+  {
+    "company": "Uber",
+    "type": "Direct Client",
+    "focus": "ML Engineers, Data Engineers",
+    "contact_info": "TBD - LinkedIn research needed",
+    "website": "uber.com",
+    "priority": "Medium"
+  },
+  {
+    "company": "Airbnb",
+    "type": "Direct Client",
+    "focus": "Data Science, ML Infrastructure",
+    "contact_info": "TBD - LinkedIn research needed",
+    "website": "airbnb.com",
+    "priority": "Medium"
+  }
+]

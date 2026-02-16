@@ -1,0 +1,19 @@
+{
+  "hiring_managers": [
+    "AI hiring manager site:linkedin.com",
+    "ML engineering manager site:linkedin.com",
+    "data science manager site:linkedin.com",
+    "technical recruiting manager AI site:linkedin.com"
+  ],
+  "hr_contacts": [
+    "HR manager technology site:linkedin.com",
+    "talent acquisition AI ML site:linkedin.com",
+    "technical recruiter artificial intelligence site:linkedin.com",
+    "staffing manager IT site:linkedin.com"
+  ],
+  "company_specific": [
+    "{company_name} hiring manager AI site:linkedin.com",
+    "{company_name} technical recruiter site:linkedin.com",
+    "{company_name} talent acquisition site:linkedin.com"
+  ]
+}
