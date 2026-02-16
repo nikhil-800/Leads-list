@@ -1,0 +1,45 @@
+{
+  "date": "2026-02-16",
+  "day": "Monday",
+  "target_count": 55,
+  "focus_sectors": [
+    "fintech_banking",
+    "consulting_agencies"
+  ],
+  "priority_technologies": [
+    "Java",
+    "Python",
+    "React",
+    "AWS",
+    "DevOps"
+  ],
+  "linkedin_searches": [
+    "contract Java developer recruiter",
+    "C2C Python developer",
+    "contract AWS engineer",
+    "contractor React developer",
+    "1099 DevOps engineer"
+  ],
+  "generated_searches": [
+    "\"Goldman Sachs\" AND \"Contract Technical Recruiter\" AND \"contract\" AND \"Java\"",
+    "\"Bank of America\" AND \"Technology Vendor Manager\" AND \"contract\" AND \"AWS\"",
+    "\"Bank of America\" AND \"Digital Contractor Recruiter\" AND \"contract\" AND \"Java\"",
+    "\"Goldman Sachs\" AND \"Trading Technology Recruiter\" AND \"contract\" AND \"DevOps\"",
+    "\"Deloitte Digital\" AND \"Project Staffing Manager\" AND \"contract\" AND \"React\"",
+    "\"JPMorgan Chase\" AND \"Talent Acquisition - Contract\" AND \"contract\" AND \"Java\"",
+    "\"Deloitte Digital\" AND \"Project Staffing Manager\" AND \"contract\" AND \"Python\"",
+    "\"Goldman Sachs\" AND \"Trading Technology Recruiter\" AND \"contract\" AND \"Python\"",
+    "\"Deloitte Digital\" AND \"Digital Contractor Lead\" AND \"contract\" AND \"DevOps\"",
+    "\"Bank of America\" AND \"Technology Vendor Manager\" AND \"contract\" AND \"DevOps\"",
+    "\"JPMorgan Chase\" AND \"Contract Staffing Lead\" AND \"contract\" AND \"Java\"",
+    "\"Bank of America\" AND \"Digital Contractor Recruiter\" AND \"contract\" AND \"Python\"",
+    "\"Accenture\" AND \"Subcontractor Acquisition\" AND \"contract\" AND \"Java\"",
+    "\"Deloitte Digital\" AND \"Project Staffing Manager\" AND \"contract\" AND \"Java\"",
+    "\"Bank of America\" AND \"Technology Vendor Manager\" AND \"contract\" AND \"React\"",
+    "\"JPMorgan Chase\" AND \"Vendor Management\" AND \"contract\" AND \"DevOps\"",
+    "\"Accenture\" AND \"Contractor Relations\" AND \"contract\" AND \"AWS\"",
+    "\"Accenture\" AND \"Contractor Relations\" AND \"contract\" AND \"DevOps\"",
+    "\"Deloitte Digital\" AND \"Digital Contractor Lead\" AND \"contract\" AND \"AWS\"",
+    "\"JPMorgan Chase\" AND \"Vendor Management\" AND \"contract\" AND \"React\""
+  ]
+}
