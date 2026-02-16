@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Team-Soft Lead Pipeline Dashboard</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); min-height: 100vh; padding: 20px; }
+        .container { max-width: 1400px; margin: 0 auto; }
+        h1 { color: #fff; text-align: center; margin-bottom: 30px; font-size: 2.5em; }
+        .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-bottom: 30px; }
+        .stat-card { background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 25px; text-align: center; border: 1px solid rgba(255,255,255,0.2); }
+        .stat-card h3 { color: #aaa; font-size: 0.9em; text-transform: uppercase; margin-bottom: 10px; }
+        .stat-card .number { color: #00d4ff; font-size: 3em; font-weight: bold; }
+        .stat-card .number.green { color: #00ff88; }
+        .stat-card .number.orange { color: #ffaa00; }
+        .stat-card .number.red { color: #ff5555; }
+        .dashboard-grid { display: grid; grid-template-columns: 2fr 1fr; gap: 20px; }
+        .card { background: rgba(255,255,255,0.05); border-radius: 15px; padding: 20px; border: 1px solid rgba(255,255,255,0.1); }
+        .card h2 { color: #fff; margin-bottom: 20px; font-size: 1.3em; }
+        table { width: 100%; border-collapse: collapse; }
+        th, td { padding: 12px; text-align: left; border-bottom: 1px solid rgba(255,255,255,0.1); }
+        th { color: #00d4ff; font-weight: 600; }
+        td { color: #ddd; }
+        .status-sent { color: #00ff88; }
+        .status-pending { color: #ffaa00; }
+        .status-response { color: #00d4ff; }
+        .progress-bar { background: rgba(255,255,255,0.1); border-radius: 10px; height: 20px; overflow: hidden; margin-top: 10px; }
+        .progress-fill { background: linear-gradient(90deg, #00d4ff, #00ff88); height: 100%; border-radius: 10px; }
+        .tech-tags { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 20px; }
+        .tech-tag { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 8px 15px; border-radius: 20px; color: #fff; font-size: 0.85em; }
+        .footer { text-align: center; margin-top: 30px; color: #666; }
+        @media (max-width: 900px) { .dashboard-grid { grid-template-columns: 1fr; } }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🚀 Team-Soft Lead Generation Pipeline</h1>
+        
+        <div class="stats-grid">
+            <div class="stat-card">
+                <h3>Total Vendors</h3>
+                <div class="number">85</div>
+            </div>
+            <div class="stat-card">
+                <h3>Emails Sent</h3>
+                <div class="number green">6</div>
+            </div>
+            <div class="stat-card">
+                <h3>Responses</h3>
+                <div class="number orange">0</div>
+            </div>
+            <div class="stat-card">
+                <h3>Pending</h3>
+                <div class="number red">79</div>
+            </div>
+        </div>
+        
+        <div class="dashboard-grid">
+            <div class="card">
+                <h2>📋 Recent Activity</h2>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Company</th>
+                            <th>Last Contacted</th>
+                            <th>Emails</th>
+                            <th>Status</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        <tr>
+                            <td>TEKsystems</td>
+                            <td>2026-02-16</td>
+                            <td>1</td>
+                            <td class="status-sent">Sent</td>
+                        </tr>
+                        <tr>
+                            <td>Insight Global</td>
+                            <td>2026-02-16</td>
+                            <td>1</td>
+                            <td class="status-sent">Sent</td>
+                        </tr>
+                        <tr>
+                            <td>Apex Systems</td>
+                            <td>2026-02-16</td>
+                            <td>1</td>
+                            <td class="status-sent">Sent</td>
+                        </tr>
+                        <tr>
+                            <td>Randstad Technologies</td>
+                            <td>2026-02-16</td>
+                            <td>1</td>
+                            <td class="status-sent">Sent</td>
+                        </tr>
+                        <tr>
+                            <td>Robert Half Technology</td>
+                            <td>2026-02-16</td>
+                            <td>1</td>
+                            <td class="status-sent">Sent</td>
+                        </tr>
+                        <tr>
+                            <td>Kelly Services</td>
+                            <td>2026-02-16</td>
+                            <td>1</td>
+                            <td class="status-sent">Sent</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            
+            <div class="card">
+                <h2>💡 Trending Technologies</h2>
+                <div class="tech-tags">
+                    <span class="tech-tag">🤖 AI/ML</span>
+                    <span class="tech-tag">☁️ AWS/Azure</span>
+                    <span class="tech-tag">🔐 Network</span>
+                    <span class="tech-tag">🛡️ Security</span>
+                    <span class="tech-tag">⚙️ DevOps</span>
+                    <span class="tech-tag">📊 Data</span>
+                    <span class="tech-tag">🔧 Kubernetes</span>
+                    <span class="tech-tag">🤖 LLM</span>
+                    <span class="tech-tag">🔥 React</span>
+                    <span class="tech-tag">🐍 Python</span>
+                </div>
+                
+                <div style="margin-top: 30px;">
+                    <h2 style="margin-bottom: 15px;">📈 Progress</h2>
+                    <div class="progress-bar">
+                        <div class="progress-fill" style="width: 7%"></div>
+                    </div>
+                    <p style="color: #888; margin-top: 10px; text-align: center;">7% Complete</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p>Last Updated: 2026-02-16 17:41:19 | Team-Soft LLC - Automated Lead Pipeline</p>
+        </div>
+    </div>
+</body>
+</html>
