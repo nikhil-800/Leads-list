@@ -1,0 +1,14 @@
+{
+  "initial_contact": {
+    "subject": "IT Contractors Available - {technology} - {company_name}",
+    "body": "Hi {recruiter_name},\n\nHope you're doing well. I'm reaching out from Team-Soft LLC regarding IT contractors you may need for your current client projects.\n\nWe have pre-screened {technology} engineers available for contract engagements:\n\n\ud83d\udccb **Available Contractors:**\n\u2022 {tech_1} Developer - {rate_1}/hour - Available immediately\n\u2022 {tech_2} Engineer - {rate_2}/hour - Available this week\n\u2022 {tech_3} Specialist - {rate_3}/hour - 2-week notice\n\n\ud83c\udfaf **Our Contract Models:**\n\u2713 Corp-to-Corp (C2C)\n\u2713 1099 Independent Contractor  \n\u2713 Contract-to-Hire (C2H)\n\n\ud83d\udcbc **Industries We Serve:**\n\u2022 Financial Services\n\u2022 Healthcare & Life Sciences\n\u2022 Government & Defense\n\u2022 Technology & SaaS\n\u2022 Retail & E-commerce\n\nWhy Partner with Team-Soft LLC?\n\u2713 Fast turnaround (24-48 hours)\n\u2713 Pre-vetted candidates\n\u2713 Competitive rates\n\u2713 Flexible engagement terms\n\nWould you have 10-15 minutes this week for a quick call to discuss your current staffing needs? I'm happy to share candidate profiles that match your requirements.\n\nBest regards,\n{email_signature}"
+  },
+  "follow_up": {
+    "subject": "Following Up - IT Contractors for {company_name}",
+    "body": "Hi {recruiter_name},\n\nJust following up on my previous email about IT contractors for {company_name}.\n\nI know you're busy, but wanted to make sure you saw our availability of pre-screened {technology} engineers:\n\n\ud83d\udd27 **Quick Stats:**\n\u2022 {number}+ {technology} contractors in our pipeline\n\u2022 Average time to present candidates: 24-48 hours\n\u2022 Experience across {industries}\n\nOur contractors work with:\n\u2713 C2C arrangements\n\u2713 1099 Independent Contractors\n\u2713 Flexible terms to fit your needs\n\nIf you have any immediate needs or would like to discuss, just reply to this email or call me directly.\n\nHappy to help!\n\n{email_signature}"
+  },
+  "urgent_need": {
+    "subject": "URGENT: {technology} Contractors Available This Week - {company_name}",
+    "body": "Hi {recruiter_name},\n\nHave an urgent need I'm hoping you can help with?\n\nI have {technology} contractors AVAILABLE TO START THIS WEEK:\n\n\u26a1 **Immediate Availability:**\n\u2022 Senior {tech_1} Developer - {rate}/hour - Can start Monday\n\u2022 {tech_2} Engineer - {rate_2}/hour - Available immediately  \n\u2022 {tech_3} Specialist - {rate_3}/hour - 2-week notice\n\nAll candidates are:\n\u2713 Pre-vetted and interview-ready\n\u2713 Available for C2C or 1099\n\u2713 Experienced in {industry} projects\n\nIf you have positions to fill urgently, let's connect today. I can send profiles within hours.\n\nBest,\n{email_signature}"
+  }
+}
