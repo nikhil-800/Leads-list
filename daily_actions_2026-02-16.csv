@@ -1,11 +1,6 @@
-Company,Email,Action,Template
-TEKsystems,btorres@teksystems.com,Initial Contact,initial
-Insight Global,mjohnson@insightglobal.com,Initial Contact,initial
-Apex Systems,jmartinez@apexsystems.com,Initial Contact,initial
-CACI,jreed@caci.com,Initial Contact,initial
-ManTech,rharris@mantech.com,Initial Contact,initial
-Booz Allen,smartinez@bah.com,Initial Contact,initial
-SAIC,kphillips@saic.com,Initial Contact,initial
-Accenture,sarah.chen@accenture.com,Initial Contact,initial
-Deloitte,dkim@deloitte.com,Initial Contact,initial
-IBM,patricia.lee@ibm.com,Initial Contact,initial
+company,name,email,action,template,specialty
+TEKsystems,Brandon,btorres@teksystems.com,Initial Email,initial,"Java, Python, AWS, Cloud, DevOps"
+Insight Global,Marcus,mjohnson@insightglobal.com,Initial Email,initial,"Java, React, Data Engineering, QA"
+Apex Systems,Jennifer,jmartinez@apexsystems.com,Initial Email,initial,".NET, Salesforce, ServiceNow, Java"
+Randstad,Michael,mbrown@randstadusa.com,Initial Email,initial,"SAP, Oracle, Cloud, Data"
+Robert Half,James,jwilson@roberthalf.com,Initial Email,initial,"Java, Python, .NET, Data"
